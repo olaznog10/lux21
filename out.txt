@@ -1,0 +1,8 @@
+{
+  ranks: [
+    { rank: 1, agentID: 0, name: 'main.py' },
+    { rank: 2, agentID: 1, name: 'gonz.py' }
+  ],
+  replayFile: 'replays/replay_gonz.json',
+  seed: 495595003
+}
